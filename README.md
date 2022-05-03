@@ -8,3 +8,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 my personal access token is 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
 
 We did it...
+My new personal access token generated on 3rd May 2022 is 
+ My New Personal Access Token is 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 as on 3/5/2022
+
+git push https://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@github.com/PrithviMrinal/vue-myCRUD.git
